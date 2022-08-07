@@ -1,0 +1,31 @@
+body {
+  background-color: #FFF4C9;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #C7E78B;
+  border-width: 9px;
+  width: 5%;
+}
+
+p {
+  font-size: 400;
+  font-family: "Antic Slab", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+h1 {
+  color: #81AE64;
+  font-family: serif;
+}
+
+h3 {
+  color: #709053;
+  font-family: "depot-new-web", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+
+}
